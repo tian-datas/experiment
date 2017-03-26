@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<DXExtendedAnnotationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.leica.com">
+  <IsShowExtendAnnotation>false</IsShowExtendAnnotation>
+  <IsBurnIn>true</IsBurnIn>
+  <HasPendingBurnIn>false</HasPendingBurnIn>
+  <ImageSize>
+    <Width>2560</Width>
+    <Height>1920</Height>
+  </ImageSize>
+  <AvailablePixelCount>0</AvailablePixelCount>
+  <CurrentExtendedSetting>
+    <ArrowLineLabelText />
+    <LineWidth>49.933154250105922</LineWidth>
+    <EndBarLength>40</EndBarLength>
+    <IsShowOutLine>false</IsShowOutLine>
+    <ImageSize>
+      <Width>0</Width>
+      <Height>0</Height>
+    </ImageSize>
+    <IsRenderUsingWordWrap>false</IsRenderUsingWordWrap>
+    <ImagePath>C:\Users\Public\Documents\Leica Application Suite\Annotation Templates\Logos</ImagePath>
+    <RenderMode>Normal</RenderMode>
+    <ScaleBarMode>TopLeft</ScaleBarMode>
+    <LabelFont>
+      <Size>13.9999962</Size>
+      <Name>Arial</Name>
+      <Style>Regular</Style>
+    </LabelFont>
+    <LineColour>-65536</LineColour>
+    <LabelTextColor>-1</LabelTextColor>
+    <LabelBackgroundColor>-10144213</LabelBackgroundColor>
+    <FillColor>-256</FillColor>
+  </CurrentExtendedSetting>
+  <Calibration>
+    <Units>mm</Units>
+    <MetresPerPixel>2.77858088169057E-06</MetresPerPixel>
+  </Calibration>
+</DXExtendedAnnotationSettings>

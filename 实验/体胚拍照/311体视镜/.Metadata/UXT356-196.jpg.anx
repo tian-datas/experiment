@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<DXBasicAnnotationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.leica.com">
+  <IsShowBasicAnnotation>false</IsShowBasicAnnotation>
+  <IsBurnIn>true</IsBurnIn>
+  <HasPendingBurnIn>false</HasPendingBurnIn>
+  <HasPendingImageDescription>false</HasPendingImageDescription>
+  <PendingImageDescription>2560 x 1920</PendingImageDescription>
+  <IsShowBasicImageName>false</IsShowBasicImageName>
+  <IsShowBasicImageDes>true</IsShowBasicImageDes>
+  <IsShowBasicImageDate>true</IsShowBasicImageDate>
+  <IsShowBasicImageTime>false</IsShowBasicImageTime>
+  <IsShowBasicLine>true</IsShowBasicLine>
+  <IsAutoSizeEnabled>true</IsAutoSizeEnabled>
+  <ArrowLineLabelText />
+  <LineWidth>2.35078053259872</LineWidth>
+  <EndBarLength>40</EndBarLength>
+  <ImageSize>
+    <Width>2560</Width>
+    <Height>1920</Height>
+  </ImageSize>
+  <Alpha>0</Alpha>
+  <RotationAngle>0</RotationAngle>
+  <IsShowActualSize>false</IsShowActualSize>
+  <IsSnapToOrigin>false</IsSnapToOrigin>
+  <RenderMode>Normal</RenderMode>
+  <LabelFont>
+    <Size>28.0000019</Size>
+    <Name>Arial</Name>
+    <Style>Regular</Style>
+  </LabelFont>
+  <LineColour>-65536</LineColour>
+  <LabelTextColor>-1</LabelTextColor>
+  <LabelBackgroundColor>-10144213</LabelBackgroundColor>
+  <ImageNameTool>
+    <Points>
+      <Point2>
+        <X>63.920255100006379</X>
+        <Y>1860.0791454237897</Y>
+      </Point2>
+    </Points>
+  </ImageNameTool>
+  <ImageDescriptionTool>
+    <Points>
+      <Point2>
+        <X>2492.8899108008081</X>
+        <Y>1860.0791454237897</Y>
+      </Point2>
+    </Points>
+  </ImageDescriptionTool>
+  <ImageDateTimeTool>
+    <Points>
+      <Point2>
+        <X>2492.8899108008081</X>
+        <Y>57.528219666863663</Y>
+      </Point2>
+    </Points>
+  </ImageDateTimeTool>
+  <BasicLineTool xsi:nil="true" />
+  <Calibration>
+    <Units>mm</Units>
+    <MetresPerPixel>2.2437630492260694E-06</MetresPerPixel>
+  </Calibration>
+</DXBasicAnnotationSettings>
